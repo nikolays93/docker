@@ -1,0 +1,3 @@
+/docker/data/
+/public_html/*
+!/public_html/.gitkeep
